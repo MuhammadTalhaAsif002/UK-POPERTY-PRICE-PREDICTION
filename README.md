@@ -1,8 +1,11 @@
 
 # UK Property Price Prediction Analysis
 
-This repository contains a project that aims to predict property prices in the UK using a dataset from Kaggle. The analysis and model building are performed using PySpark.
-
+This repository contains a project that aims to predict property prices in the UK using a dataset from Kaggle. The analysis and model building are performed using PySpark.The dataset was about 5gb which was reduced further.
+here is the link for dataset:
+```bash
+https://www.kaggle.com/datasets/lorentzyeung/price-paid-data-202304
+```
 ## Project Overview
 
 The goal of this project is to predict property prices in the UK using an official dataset. The dataset includes comprehensive information about property transactions. The approach involves data preprocessing, exploratory data analysis (EDA), feature engineering, and the application of machine learning algorithms using PySpark.
@@ -108,4 +111,4 @@ python big_data_project.py
 
 ## Contact
 
-For any questions or comments, please contact Muhammad Talha Asif at [muhammadtalhaasif90@example.com].
+For any questions or comments, please contact Muhammad Talha Asif at [muhammadtalhaasif90@gmail.com].
